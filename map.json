@@ -22,7 +22,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -40,7 +40,7 @@
                  "value":"..\/Floor1\/floor1.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -58,7 +58,7 @@
                  "value":"..\/Lyon\/lyon.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -94,7 +94,7 @@
          "name":"book",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -106,12 +106,13 @@
          "name":"ordi",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
         }, 
         {
+         "color":"#0000ff",
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
@@ -147,8 +148,25 @@
                  "width":35.2916666666667,
                  "x":752.354166666667,
                  "y":687.911458333333
+                }, 
+                {
+                 "height":18.84375,
+                 "id":7,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hello World",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":84.625,
+                 "x":829.6875,
+                 "y":418.578125
                 }],
          "opacity":1,
+         "tintcolor":"#ff0000",
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -167,13 +185,13 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
         }],
  "nextlayerid":14,
- "nextobjectid":7,
+ "nextobjectid":8,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"2021.01.13",
