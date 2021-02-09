@@ -162,8 +162,19 @@
                  "type":"",
                  "visible":true,
                  "width":84.625,
-                 "x":829.6875,
-                 "y":418.578125
+                 "x":680.354166666667,
+                 "y":405.244791666667
+                }, 
+                {
+                 "height":81.3333333333334,
+                 "id":8,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":126.666666666667,
+                 "x":660,
+                 "y":374.666666666667
                 }],
          "opacity":1,
          "tintcolor":"#ff0000",
@@ -191,7 +202,7 @@
          "y":0
         }],
  "nextlayerid":14,
- "nextobjectid":8,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"2021.01.13",
