@@ -113,7 +113,7 @@
         }, 
         {
          "color":"#0000ff",
-         "draworder":"index",
+         "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
          "objects":[
@@ -167,6 +167,12 @@
                  "y":407.911458333333
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"objectgroup",
+                 "type":"bool",
+                 "value":true
+                }],
          "tintcolor":"#ff0000",
          "type":"objectgroup",
          "visible":true,
