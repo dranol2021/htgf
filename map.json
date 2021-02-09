@@ -113,7 +113,7 @@
         }, 
         {
          "color":"#0000ff",
-         "draworder":"topdown",
+         "draworder":"index",
          "id":3,
          "name":"floorLayer",
          "objects":[
@@ -152,29 +152,19 @@
                 {
                  "height":18.84375,
                  "id":7,
-                 "name":"",
+                 "name":"Hello",
                  "rotation":0,
                  "text":
                     {
+                     "fontfamily":"Arial",
                      "text":"Hello World",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":84.625,
-                 "x":680.354166666667,
-                 "y":405.244791666667
-                }, 
-                {
-                 "height":81.3333333333334,
-                 "id":8,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":126.666666666667,
-                 "x":660,
-                 "y":374.666666666667
+                 "x":713.6875,
+                 "y":407.911458333333
                 }],
          "opacity":1,
          "tintcolor":"#ff0000",
