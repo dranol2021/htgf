@@ -92,11 +92,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/kkiUUyIvZOo"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"autoplay"
                 }],
          "type":"tilelayer",
          "visible":true,
