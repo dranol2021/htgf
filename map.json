@@ -981,22 +981,6 @@
         {
          "firstgid":321,
          "source":"Letters.tsx"
-        }, 
-        {
-         "firstgid":322,
-         "source":"P.tsx"
-        }, 
-        {
-         "firstgid":323,
-         "source":"O.tsx"
-        }, 
-        {
-         "firstgid":324,
-         "source":"N.tsx"
-        }, 
-        {
-         "firstgid":325,
-         "source":"G.tsx"
         }],
  "tilewidth":32,
  "type":"map",
